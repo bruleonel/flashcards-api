@@ -1,0 +1,4 @@
+com\usuario\flashcard\controller\CardController.class
+com\usuario\flashcard\entity\Card.class
+com\usuario\flashcard\FlashcardApiApplication.class
+com\usuario\flashcard\repository\CardRepository.class
