@@ -1,0 +1,17 @@
+# Ignore Maven build directory
+target/
+
+# Ignore logs
+*.log
+
+# Ignore IDE configs (Eclipse, IntelliJ, VSCode etc)
+*.class
+*.iml
+.idea/
+*.project
+*.classpath
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
